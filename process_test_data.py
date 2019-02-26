@@ -1,4 +1,4 @@
-with open('final_track2_test_no_answer.txt','r') as fin:
+with open('/home1/tsy/AutoInt_test/final_track2_test_no_answer.txt','r') as fin:
 	with open('final_track2_test_user_item.txt','w') as f_user_item:
 		with open('final_track2_test_finish.txt','w') as f_finish:
 			with open('final_track2_test_like.txt','w') as f_like:
